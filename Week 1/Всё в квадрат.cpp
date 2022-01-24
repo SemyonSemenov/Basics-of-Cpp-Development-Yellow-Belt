@@ -5,13 +5,13 @@
 #include <map>
 using namespace std;
 
-// Предварительное объявление шаблонных функций
+// Preliminary declaration of template functions
 template <typename First, typename Second> pair<First, Second> operator * (const pair<First, Second>& p1, const pair<First, Second>& p2);
 template <typename Type> vector<Type> operator * (const vector<Type>& v1, const vector<Type>& v2);
 template <typename Key, typename Value> map<Key, Value> operator * (const map<Key, Value>& m1, const map<Key, Value>& m2);
 template <typename T> T Sqr(T x);
 
-// Объявляем шаблонные функции
+// Declare template functions
 template <typename First, typename Second>
 pair<First, Second> operator * (const pair<First, Second>& p1, const pair<First, Second>& p2) {
     First f = p1.first * p2.first;
