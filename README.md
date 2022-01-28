@@ -11,3 +11,6 @@
 - [Всё в квадрат](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/fdc0d5eeb29d56502a46448bd4aae3029d2c03f7/Week%201/%D0%92%D1%81%D1%91%20%D0%B2%20%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82.cpp)
 
 - [Ссылка на элемент](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/2c07d2defc6608d180c6fcfb793f8266c9037b42/Week%201/%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82.cpp)
+
+
+- [](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/fac7d0207d261f945e81479e403f1ad0eb8ffe17/Week%201/%D0%94%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.cpp)
