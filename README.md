@@ -16,7 +16,14 @@
 
 ### Задания по программированию:
 
-- [Декомпозиция программы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/fac7d0207d261f945e81479e403f1ad0eb8ffe17/Week%201/%D0%94%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.cpp)
+- [Декомпозиция программы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/5ac0d3fab3512bb52403e364ffbd55b86aec9ea4/Week%202/%D0%94%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.cpp)
 
+- [Тесты для класса Rational](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/7e357b2558cbcda45d86789252d604c1e946e8bd/Week%202/%D0%A2%D0%B5%D1%81%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0%20Rational.cpp)
 
-- [Тесты для класса Rational](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/2ded40c94edaf81eb0206cd5f05997bc47ccbc8f/Week%201/%D0%A2%D0%B5%D1%81%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0%20Rational.cpp)
+- [Тесты для функции IsPalindrom](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/6d202f11c0ecffe9e5dcfaa1ce0ee33356325e69/Week%202/%D0%A2%D0%B5%D1%81%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20IsPalindrom.cpp)
+
+## Неделя 3
+
+### Задания по программированию:
+
+- [Реализовать функции, объявленные в заголовочном файле]()
