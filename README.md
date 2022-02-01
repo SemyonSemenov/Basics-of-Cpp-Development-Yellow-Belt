@@ -34,3 +34,7 @@
 ## Неделя 4
 
 ### Задания по программированию
+
+- [Часть множества](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/54f2daf8a13178ffabebb54f76cac55c5814f02a/Week%204/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0.cpp)
+
+- [Разбиение на слова]()
