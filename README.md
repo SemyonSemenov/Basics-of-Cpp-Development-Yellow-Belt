@@ -37,4 +37,4 @@
 
 - [Часть множества](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/54f2daf8a13178ffabebb54f76cac55c5814f02a/Week%204/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0.cpp)
 
-- [Разбиение на слова]()
+- [Разбиение на слова](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/3cd004804c75aa659c5b73611f6f17691135f5c4/Week%204/%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0.cpp)
