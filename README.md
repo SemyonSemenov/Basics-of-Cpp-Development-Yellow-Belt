@@ -49,7 +49,7 @@
 
 - Группировка строк по префиксу
 
-[Часть 1. Группировка по символу](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/4ed9e9eca6e63b2fc9a0349d5a20c4c9654eae3c/Week%204/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.%20%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%83.cpp)
+--[Часть 1. Группировка по символу](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/4ed9e9eca6e63b2fc9a0349d5a20c4c9654eae3c/Week%204/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.%20%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%83.cpp)
 
 [Часть 2. Группировка по префиксу](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/4ed9e9eca6e63b2fc9a0349d5a20c4c9654eae3c/Week%204/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.%20%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B5%D1%84%D0%B8%D0%BA%D1%81%D1%83.cpp)
 
