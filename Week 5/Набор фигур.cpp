@@ -91,7 +91,6 @@ shared_ptr<Figure> CreateFigure(istringstream& is) {
         is >> a >> b >> c;
         return make_shared<Triangle>(a, b, c);
     }
-
 }
 
 int main() {
