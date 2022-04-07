@@ -68,3 +68,9 @@
 - [Набор фигур](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/3d377b02005c342609971d9019207abded3798af/Week%205/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%20%D1%84%D0%B8%D0%B3%D1%83%D1%80.cpp)
 
 - [Грамотно рефакторим код](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/f7028c9e3a830beefcaa66f61de33e36add18f8e/Week%205/%D0%93%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%20%D1%80%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BC%20%D0%BA%D0%BE%D0%B4.cpp)
+
+## Неделя 6
+
+### Задание по программированию
+
+- [Курсовой проект]()
