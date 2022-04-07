@@ -73,4 +73,4 @@
 
 ### Задание по программированию
 
-- [Курсовой проект]()
+- [Курсовой проект](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-Yellow-Belt/blob/cfb2820963f5dfaeeadd806159f841b37b4ffbe2/Week%206/src.rar)
